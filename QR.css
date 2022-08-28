@@ -2,6 +2,8 @@ body {
 	margin:0;
 	padding:0;
 	background-color:hsl(212, 45%, 89%);
+	font-family: 'DynaPuff', cursive;
+	font-family: 'PT Sans Narrow', sans-serif;
 }
 .first-back {
 	background-color:lightblue;

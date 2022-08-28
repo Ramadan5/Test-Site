@@ -4,11 +4,12 @@ body {
 	background-color:hsl(212, 45%, 89%);
 	font-family: 'DynaPuff', cursive;
 	font-family: 'PT Sans Narrow', sans-serif;
+	text-align:center;
 }
 .first-back {
 	background-color:lightblue;
 	box-shadow: 0 0 2px 3px gray;
-	margin:50px;
+	margin:50px auto;
 	width:1300px;
 	height:1000px;
 	padding:50px;
@@ -18,7 +19,7 @@ body {
 	background-color:white;
 	width:330px;
 	height:510px;
-	margin:200px;
+	margin:200px auto;
 	border-radius:20px;
 	border:1px solid lightblue;
 	box-shadow: 0 0 2px 3px gray;
